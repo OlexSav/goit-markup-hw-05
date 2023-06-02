@@ -370,10 +370,7 @@ body {
   height: 100%;
   left: 0;
   top: 0;
-  padding-top: 40px;
-  padding-left: 32px;
-  padding-right: 32px;
-  padding-bottom: 164px;
+  padding: 40px 32px;
 
   font-family: var(--primary-font);
   font-weight: 400;
